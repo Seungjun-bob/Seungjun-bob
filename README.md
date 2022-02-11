@@ -1,8 +1,8 @@
-<h3 align=center> 👋 Hello my name is Seungjun
+<h4 align=center> 👋 Hello I am Seungjun who is interested in DataScience.
 <br>
 <br>
 
-<h3 align=center>💡 Tech Stacks 💡 <br><br>
+<h4 align=center>💡 Tech Stacks 💡 <br><br>
 <img src="https://img.shields.io/badge/python-gray?style=for-the-badge-square&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Django-gray?style=for-the-badge-square&logo=Django&logoColor=092E20"/>
 <br>
