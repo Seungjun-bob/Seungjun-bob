@@ -1,5 +1,6 @@
 ### 👋 Hello my name is Seungjun
-
+<br>
+<br>
 ### Tech Stacks 
 <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=Python&logoColor=3776AB"/>
 
