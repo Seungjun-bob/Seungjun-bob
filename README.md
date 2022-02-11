@@ -1,7 +1,7 @@
 ### 👋 Hello my name is Seungjun
 
 ### Tech Stacks 
-<img src="https://img.shields.io/badge/{python}-{blue}?style={flat-square}&logo={Python}&logoColor={3776AB}"/>
+<img src="https://img.shields.io/badge/{python}-{blue}?style={flat-square}&logo=Python&logoColor={3776AB}"/>
 
 <!--
 **Seungjun-bob/Seungjun-bob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
