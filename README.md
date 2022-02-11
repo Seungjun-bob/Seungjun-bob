@@ -2,7 +2,7 @@
 <br>
 <br>
 
-### <center>Tech Stacks</center> 
+<center>### Tech Stacks</center> 
 <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=Python&logoColor=3776AB"/>
 
 <!--
