@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello my name is Seungjun
 
 <!--
 **Seungjun-bob/Seungjun-bob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
