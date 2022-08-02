@@ -1,5 +1,6 @@
-<h4 align=center> 👋 Hello I am Seungjun who is interested in DataScience.
+<h4 align=center> 👋 Hello I am Seungjun
 <br>
+work in Business Inteligence as web developer
 <br>
 
 <h4 align=center>💡 Tech Stacks 💡 <br><br>
