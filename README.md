@@ -1,6 +1,6 @@
 <h4 align=center> 👋 Hello I am Seungjun
 <br>
-work in Business Inteligence as web developer
+work in Business Intelligence as Web developer
 <br>
 
 <h4 align=center>💡 Tech Stacks 💡 <br><br>
