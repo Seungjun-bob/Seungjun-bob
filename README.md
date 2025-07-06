@@ -1,6 +1,20 @@
-<h4 align=center> 👋 Hello I am Seungjun
-<br>
-work in Business Intelligence as Web developer
-<br>
+# 안녕하세요, 강승준입니다!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seungjun-bob&show_icons=true&theme=default)
+**Backend & Cloud Engineer**
+
+---
+
+## Skills
+
+- **Backend**: Kotlin, Java, Spring Boot, Node.js (Express)
+- **Infra / DevOps**: GCP, AWS, Docker, Nginx, Apache, CentOS
+- **DB**: MySQL, BigQuery, MariaDB
+- **Visualization**: Tableau, Chart.js
+- **Version Control**: Git, GitHub
+
+---
+
+## Contacts
+
+- Email: [rkdtmdwns0105@gmail.com]
+- Blog: [https://bob-data.tistory.com/]
